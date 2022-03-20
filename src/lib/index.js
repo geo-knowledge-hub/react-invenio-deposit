@@ -10,6 +10,7 @@ export { DepositApiClient } from './DepositApiClient';
 export { DepositController } from './DepositController';
 export { DepositFormApp } from './DepositFormApp';
 export { DepositErrorHandler } from './DepositErrorHandler';
+export { DepositFileUploader } from './DepositFileUploader';
 export { DepositRecordSerializer } from './DepositRecordSerializer';
 export { connect } from './connect';
 export * from './dom';
