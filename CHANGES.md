@@ -1,5 +1,8 @@
 # Changes
 
+Version 0.17.12 (released 2022-05-09)
+* Package renamed to `@geo-knowledge-hub/react-invenio-deposit` using [scoped pattern](https://docs.npmjs.com/cli/v8/using-npm/scope)
+
 Version 0.17.11 (released 2022-03-03)
 * fix arrow navigation issues for names autocomplete search field
 * remove default value for given name in creatibutors form
